@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] D:\!react\Siuntupilotai\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\bac2272a9294bf77bc333ff9b3a858ce\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5381e44a8404d389d0d670fc9a8746c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.1.aar\d3fd33ecf63f8855f20ed219b650c684\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2be4a47ee9c0e5634005c886e3ca7563\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\acb20b131cf9491f02b4375f25495b40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2e1f3946b0ebadf44e24586c5efdfad8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c4a01daa841b05c1eb89f01a862aae6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\81b4fc46f344481455de5f59f38fa6fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\416badaa9422460afd80e130e115dfc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\fresco-0.8.1.aar\ffd3f9ac48922708446c24b199c2cbb3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp-0.8.1.aar\f7d3ba027993aac018ea19b4f9962d03\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.8.1.aar\d4724f066df5ae9e4c4c1e8a54debb95\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\drawee-0.8.1.aar\e701f13d005cc3066568c6ebdc6a9dc7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\74d06bc8f7f380485c6cf7181afbe98d\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0a720807718d06dd6befc911cb9c1f63\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\fbcore-0.8.1.aar\561f799c4d4dcc61fc4336d943a23e9f\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9995c5c31526eced232456f3c9304b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\476fd5cbea1f1c082509cc4207ed6063\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\70109c22ed7872b3f4fc3851679fac33\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\12b7f9a1bf453cebd4c437c04e607589\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\bac2272a9294bf77bc333ff9b3a858ce\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\bac2272a9294bf77bc333ff9b3a858ce\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\bac2272a9294bf77bc333ff9b3a858ce\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\bac2272a9294bf77bc333ff9b3a858ce\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\74d06bc8f7f380485c6cf7181afbe98d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\74d06bc8f7f380485c6cf7181afbe98d\AndroidManifest.xml:22:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0a720807718d06dd6befc911cb9c1f63\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0a720807718d06dd6befc911cb9c1f63\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.siuntos.MainActivity
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] D:\!react\Siuntupilotai\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\!react\Siuntupilotai\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\bac2272a9294bf77bc333ff9b3a858ce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.20.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\react-native-0.20.1.aar\bac2272a9294bf77bc333ff9b3a858ce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5381e44a8404d389d0d670fc9a8746c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\5381e44a8404d389d0d670fc9a8746c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.1.aar\d3fd33ecf63f8855f20ed219b650c684\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.0.1.aar\d3fd33ecf63f8855f20ed219b650c684\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2be4a47ee9c0e5634005c886e3ca7563\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2be4a47ee9c0e5634005c886e3ca7563\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\acb20b131cf9491f02b4375f25495b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\acb20b131cf9491f02b4375f25495b40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2e1f3946b0ebadf44e24586c5efdfad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2e1f3946b0ebadf44e24586c5efdfad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c4a01daa841b05c1eb89f01a862aae6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c4a01daa841b05c1eb89f01a862aae6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\81b4fc46f344481455de5f59f38fa6fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\81b4fc46f344481455de5f59f38fa6fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\416badaa9422460afd80e130e115dfc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\416badaa9422460afd80e130e115dfc3\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\fresco-0.8.1.aar\ffd3f9ac48922708446c24b199c2cbb3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\fresco-0.8.1.aar\ffd3f9ac48922708446c24b199c2cbb3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp-0.8.1.aar\f7d3ba027993aac018ea19b4f9962d03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp-0.8.1.aar\f7d3ba027993aac018ea19b4f9962d03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.8.1.aar\d4724f066df5ae9e4c4c1e8a54debb95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.8.1.aar\d4724f066df5ae9e4c4c1e8a54debb95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\drawee-0.8.1.aar\e701f13d005cc3066568c6ebdc6a9dc7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\drawee-0.8.1.aar\e701f13d005cc3066568c6ebdc6a9dc7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\74d06bc8f7f380485c6cf7181afbe98d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\74d06bc8f7f380485c6cf7181afbe98d\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fbcore:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\fbcore-0.8.1.aar\561f799c4d4dcc61fc4336d943a23e9f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.8.1] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\fbcore-0.8.1.aar\561f799c4d4dcc61fc4336d943a23e9f\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9995c5c31526eced232456f3c9304b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c9995c5c31526eced232456f3c9304b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\476fd5cbea1f1c082509cc4207ed6063\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\476fd5cbea1f1c082509cc4207ed6063\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\70109c22ed7872b3f4fc3851679fac33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\70109c22ed7872b3f4fc3851679fac33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\12b7f9a1bf453cebd4c437c04e607589\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\pvali\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\12b7f9a1bf453cebd4c437c04e607589\AndroidManifest.xml:20:5-44
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\!react\Siuntupilotai\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
